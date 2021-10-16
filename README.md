@@ -21,6 +21,6 @@
 ***
 - ⚡ Fun fact: I love coding movies. A lot. And I also rarely eat.
 -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CyberGeni?)](https://git.io/streak-stats)
+[My GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CyberGeni)](https://git.io/streak-stats)
 
 ### PS: Available for hire!
