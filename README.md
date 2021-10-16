@@ -11,7 +11,7 @@
 - 🤔 I’m looking for help with Django
 - 💬 Ask me about virtually anything e.g movies, tutorials, songs, anything I can help with
 ***
-- 📫 Need me for anything?Text me: [Twitter](https://twitter.com/cybergenie_),[WhatsApp](https://wa.me/2349098746099?text=Hi,20%Treasure.20%Found20%your20%link20%on20%your20%GitHub20%profile,20%care20%for20%a20%little20%chit-chat?)
+- 📫 Need me for anything?Text me: [Twitter](https://twitter.com/cybergenie_),[WhatsApp](https://wa.me/2349098746099?text=Hi20%Treasure20%Found20%your20%link20%on20%your20%GitHub20%profile,20%care20%for20%a20%little20%chit-chat?)
 ***
 - 😄 Pronouns: She/Her
 ***
