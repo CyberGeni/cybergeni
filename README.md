@@ -19,7 +19,7 @@
 
 ***
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CyberGeni)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CyberGeni&theme=solarized-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 ### PS: Available for hire! Frontend Roles, possibly remote. 😊
 
 ***
