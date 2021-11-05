@@ -17,7 +17,9 @@
 ***
 [![GitHub cyberGeni](https://img.shields.io/github/followers/cybergeni?label=follow&style=social)](https://github.com/cybergeni)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cybergeni&layout=compact&theme=radical)](https://github.com/cybergeni/)
+<br>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CyberGeni&theme=solarized-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 ### PS: Available for hire! Frontend Roles, possibly remote/intern. 😊
 
