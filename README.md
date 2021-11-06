@@ -21,10 +21,9 @@ Stats 🤩
 
   [![GitHub cyberGeni](https://img.shields.io/github/followers/cybergeni?label=follow&style=social)](https://github.com/cybergeni)
 
+  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cybergeni&layout=compact&theme=solarized-dark&hide_border=true)](https://github.com/cybergeni/)
+  
   <img src="https://github-readme-stats.vercel.app/api?username=cybergeni&show_icons=true&theme=solarized-dark&hide_border=true" alt="cybergeni" />
-
-
-  [![Top Languagess](https://github-readme-stats.vercel.app/api/top-langs/?username=cybergeni&layout=compact&theme=solarized-dark&hide_border=true)](https://github.com/cybergeni/)
 
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CyberGeni&show_icons=true&theme=solarized-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
