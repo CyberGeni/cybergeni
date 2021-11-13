@@ -5,7 +5,7 @@
 
 ***
 - 🔭 I’m currently working on LaBurtina (Food/Spices e-commerce site)
-- 🌱 I’m currently learning Javascript, Vue.js, Spanish
+- 🌱 I’m currently learning Javascript, Django, Vue.js, Spanish
 - 👯 I’m looking to collaborate on projects involving web and things concerning it
 - 🤔 I’m looking for help with Django, Vue.js
 - 💬 Ask me about virtually anything e.g movies, tutorials, songs, anything I can help with
