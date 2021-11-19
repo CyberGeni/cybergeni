@@ -21,7 +21,7 @@ Stats 🤩
 
   [![GitHub cyberGeni](https://img.shields.io/github/followers/cybergeni?label=follow&style=social)](https://github.com/cybergeni)
   
-  [![cyberGenie's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cybergeni)](https://github.com/anuraghazra/github-readme-stats)
+  [![cyberGenie's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cybergenie)](https://github.com/anuraghazra/github-readme-stats)
 
   [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cybergeni&layout=compact&theme=solarized-dark&hide_border=true)](https://github.com/cybergeni/)
   
