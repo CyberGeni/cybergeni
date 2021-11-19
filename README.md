@@ -18,7 +18,7 @@
 Stats 🤩
 
   <img src="https://komarev.com/ghpvc/?username=cybergeni" alt="cybergeni" />
-
+  <img src="https://wakatime.com/badge/user/fede108f-ac4d-4ee1-a737-02be93341066.svg" alt="cybergeni"/>
   [![GitHub cyberGeni](https://img.shields.io/github/followers/cybergeni?label=follow&style=social)](https://github.com/cybergeni)
   
   [![cyberGenie's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cybergenie)](https://github.com/anuraghazra/github-readme-stats)
