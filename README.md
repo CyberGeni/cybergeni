@@ -19,9 +19,10 @@ Stats 🤩
 
   <img src="https://komarev.com/ghpvc/?username=cybergeni" alt="cybergeni" />
   <img src="https://wakatime.com/badge/user/fede108f-ac4d-4ee1-a737-02be93341066.svg" alt="cybergeni"/>
+  
   [![GitHub cyberGeni](https://img.shields.io/github/followers/cybergeni?label=follow&style=social)](https://github.com/cybergeni)
   
-  [![cyberGenie's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cybergenie)](https://github.com/anuraghazra/github-readme-stats)
+  [![cyberGenie's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cybergenie&layout=compact&theme=solarized-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
   [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cybergeni&layout=compact&theme=solarized-dark&hide_border=true)](https://github.com/cybergeni/)
   
@@ -29,7 +30,7 @@ Stats 🤩
 
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CyberGeni&show_icons=true&theme=solarized-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-### PS: Available for hire! Possibly remote/intern. 😊
+### 😊
 
 ***
 
