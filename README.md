@@ -15,7 +15,7 @@
 - 💬 Ask me about virtually anything e.g movies, tutorials, songs, anything I can help with
 - 📫 Do you want to commend or criticize anything? Even if it's just to catch cruise(😏)Text me: [Twitter](https://twitter.com/cybergenie_), [WhatsApp](https://wa.me/2349098746099?text=Hi%20Treasure,%20I%20found%20your%20link%20on%20your%20GitHub%20profile,%20care%20for%20a%20little%20chit-chat?%20My%20name%20is%20%20%20)
 ***
-- 😄 Pronouns: She/Her
+- 😄 Pronouns: She/Her 👧
 ***
 - ⚡ Fun fact: I can remember 90% of songs I once enjoyed no matter how long it's been since I listened to it.
 ***
