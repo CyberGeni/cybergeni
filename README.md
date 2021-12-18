@@ -3,8 +3,8 @@
 
 ### Hey there fella 👋
 
-- var name = Treasure
-- var stack = HTML, CSS, Python, Buildbox (Javascript & Vue.js in progress)
+- const name = Treasure
+- var stack = HTML, CSS, Python, Buildbox (JavaScript & Vue.js in progress)
 
 ***
 - 🔭 I’m currently working on LaBurtina (Food/Spices e-commerce site)
