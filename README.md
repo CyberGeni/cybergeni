@@ -17,7 +17,7 @@
 ***
 - 😄 Pronouns: She/Her 👧
 ***
-- ⚡ Fun fact: I can remember 90% of songs I once enjoyed no matter how long it's been since I listened to it.
+- ⚡ Fun fact: I can remember 90% of the lyrics to songs I once enjoyed no matter how long it's been since I listened to it.
 ***
 Stats 🤩
 
