@@ -4,7 +4,7 @@
 ### Hey there fella 👋
 
 - const name = Treasure
-- var stack = HTML, CSS, Python, Buildbox (JavaScript & Vue.js in progress)
+- var stack = HTML, CSS, Python, Buildbox (JavaScript && Vue.js in progress)
 
 ***
 - 🔭 I’m currently working on LaBurtina (Food/Spices e-commerce site)
@@ -39,7 +39,6 @@
 Stats 🤩
 
   <img src="https://komarev.com/ghpvc/?username=cybergeni" alt="cybergeni" />
-  <img src="https://wakatime.com/badge/user/fede108f-ac4d-4ee1-a737-02be93341066.svg" alt="cybergeni"/>
   
   [![GitHub cyberGeni](https://img.shields.io/github/followers/cybergeni?label=follow&style=social)](https://github.com/cybergeni)
   
