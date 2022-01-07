@@ -1,5 +1,4 @@
-# not your regular frontend dev
-
+# <p align="center">not your regular frontend dev</p>
 
 ### Hey there fella 👋
 
@@ -14,6 +13,7 @@
 - 😑 I'm currently in a love/hate relationship with Javascript
 - 💬 Ask me about virtually anything e.g movies, tutorials, songs, anything I can help with
 - 📫 Do you want to commend or criticize anything? Even if it's just to catch cruise(😏)Text me: 
+
 ### Socials 
 [![Linkedin Badge](https://img.shields.io/badge/-Treasure_A.-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/treasure-ajefu)
 [![WhasApp Badge](https://img.shields.io/badge/-@cyberGenie-43D854?style=flat&labelColor=43D854&logo=whatsapp&logoColor=white)](https://wa.me/2349098746099?text=Hi%20Treasure,%20I%20found%20your%20link%20on%20your%20GitHub%20profile,%20care%20for%20a%20little%20chit-chat?%20My%20name%20is%20%20%20) 
@@ -24,7 +24,9 @@
 ### Tools 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind_CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=F0DB4F&logo=javascript&logoColor=black) 
+![Vue Js](https://img.shields.io/badge/Vue-41b883?style=for-the-badge&logo=vue.js&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
