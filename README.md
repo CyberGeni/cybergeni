@@ -1,4 +1,4 @@
-# <p align="center">not your regular frontend dev</p>
+# <p align="center">not your regular frontend dev 😉</p>
 
 ### Hey there fella 👋
 
@@ -8,6 +8,7 @@
 ***
 - 🔭 I’m currently working on LaBurtina (Food/Spices e-commerce site)
 - 🌱 I’m currently learning Javascript, Django, Vue.js, Spanish
+- 📝 I'm learning to be a technical writer and content creator.  Currently on Hashnode and Dev.to
 - 👯 I’m looking to collaborate on projects involving web and things concerning it
 - 🤔 I’m looking for help with Django, Vue.js
 - 😑 I'm currently in a love/hate relationship with Javascript
@@ -45,7 +46,7 @@ Stats 🤩
   [![GitHub cyberGeni](https://img.shields.io/github/followers/cybergeni?label=Follow%20me&style=flat)](https://github.com/cybergeni)
   
   [![cyberGenie's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cybergenie&layout=compact&theme=solarized-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
+ 
   [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cybergeni&layout=compact&theme=solarized-dark&hide_border=true)](https://github.com/cybergeni/)
   
   <img src="https://github-readme-stats.vercel.app/api?username=cybergeni&show_icons=true&theme=solarized-dark&hide_border=true" alt="cybergeni" />
