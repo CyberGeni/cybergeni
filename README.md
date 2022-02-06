@@ -7,7 +7,7 @@
 
 ***
 - 🔭 I’m currently working on LaBurtina (Food/Spices e-commerce site)
-- 🌱 I’m currently learning Javascript, Django, Vue.js, Spanish
+- 🌱 I’m currently learning Javascript,  Vue.js, Spanish
 - 📝 I'm learning to be a technical writer and content creator.  Currently on Hashnode and Dev.to
 - 👯 I’m looking to collaborate on projects involving web and things concerning it
 - 🤔 I’m looking for help with Django, Vue.js
@@ -35,6 +35,12 @@
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 
 ***
+
+### Latest Blog Post 
+- [Deploying Your Site On GitHub Pages](https://cybergenie.hashnode.dev/deploying-your-website-using-github-pages)
+Kindly read. Drop a reaction if it helped you.
+
+*** 
 - 😄 Pronouns: She/Her 👧
 ***
 - ⚡ Fun fact: I can remember 90% of the lyrics to songs I once enjoyed no matter how long it's been since I listened to it.
