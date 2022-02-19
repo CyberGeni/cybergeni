@@ -6,9 +6,9 @@
 - var stack = HTML, CSS, Python, Buildbox (JavaScript && Vue.js in progress)
 
 ***
-- 🔭 I’m currently working on LaBurtina (Food/Spices e-commerce site)
+- 🔭 I’m currently working on FourthSpecs (Gadgets info site)
 - 🌱 I’m currently learning Javascript,  Vue.js, Spanish
-- 📝 I'm learning to be a technical writer and content creator.  Currently on Hashnode and Dev.to
+- 📝 I'm learning to be a technical writer and content creator.  Currently on [Hashnode](https://cybergenie.hashnode.dev) and [Dev.to](https://dev.to/cybergenie)
 - 👯 I’m looking to collaborate on projects involving web and things concerning it
 - 🤔 I’m looking for help with Django, Vue.js
 - 😑 I'm currently in a love/hate relationship with Javascript
