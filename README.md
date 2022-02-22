@@ -45,6 +45,7 @@ Kindly read. Drop a reaction if it helped you.
 - 😄 Pronouns: She/Her 👧
 ***
 - ⚡ Fun fact: I can remember 90% of the lyrics to songs I once enjoyed no matter how long it's been since I listened to it.
+- 💡 I also play chess on [chess.com](https://chess.com/members/cybergenie)
 ***
 Stats 🤩
 
