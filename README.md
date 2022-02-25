@@ -13,7 +13,7 @@
 - 🤔 I’m looking for help with Django, Vue.js
 - 😑 I'm currently in a love/hate relationship with Javascript
 - 💬 Ask me about virtually anything e.g movies, tutorials, songs, anything I can help with
-- 📫 Do you want to commend or criticize anything? Even if it's just to catch cruise(😏)Text me: 
+- 📫 Do you want to commend or criticize anything? Even if it's just to catch cruise(😏)Text me through any of the below mediums: 
 
 ### Socials 
 [![Linkedin Badge](https://img.shields.io/badge/-Treasure_A.-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/treasure-ajefu)
