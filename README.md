@@ -3,7 +3,7 @@
 ### Hey there fella 👋
 
 - const name = Treasure
-- var stack = HTML, CSS, Python, Buildbox (JavaScript && Vue.js in progress)
+- var stack = HTML, CSS, TailwindCSS, Python (JavaScript && Vue.js in progress)
 
 ***
 - 🔭 I’m currently working on FourthSpecs (Gadgets info site)
