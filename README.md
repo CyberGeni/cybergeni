@@ -38,6 +38,7 @@
 
 ### Latest Blog Post 
 - [Deploying Your Site On GitHub Pages](https://cybergenie.hashnode.dev/deploying-your-website-using-github-pages)
+- 3 differences between web2 and we've
 
 Kindly read. Drop a reaction if it helped you.
 
