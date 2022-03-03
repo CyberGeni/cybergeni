@@ -7,10 +7,10 @@
 
 ***
 - 🔭 I’m currently working on FourthSpecs (Gadgets info site)
-- 🌱 I’m currently learning Javascript,  Vue.js, Spanish
+- 🌱 I’m currently learning Javascript,  Vue.js, Spanish, Blockchain
 - 📝 I'm learning to be a technical writer and content creator.  Currently on [Hashnode](https://cybergenie.hashnode.dev) and [Dev.to](https://dev.to/cybergenie)
 - 👯 I’m looking to collaborate on projects involving web and things concerning it
-- 🤔 I’m looking for help with Django, Vue.js
+- 🤔 I’m looking for help with Vue.js, Solidity
 - 😑 I'm currently in a love/hate relationship with Javascript
 - 💬 Ask me about virtually anything e.g movies, tutorials, songs, anything I can help with
 - 📫 Do you want to commend or criticize anything? Even if it's just to catch cruise(😏)Text me through any of the below mediums: 
