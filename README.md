@@ -4,7 +4,7 @@
 
 - const name = Treasure
 - var stack = HTML, CSS, TailwindCSS, Python (JavaScript && Vue.js in progress)
-- var in progress = Solidity for Blockchain/web3
+- var inProgress = Solidity for Blockchain/web3
 ***
 - 🔭 I’m currently working on FourthSpecs (Gadgets info site)
 - 🌱 I’m currently learning Javascript,  Vue.js, Spanish, Blockchain
