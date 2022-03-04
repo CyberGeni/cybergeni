@@ -4,7 +4,7 @@
 
 - const name = Treasure
 - var stack = HTML, CSS, TailwindCSS, Python (JavaScript && Vue.js in progress)
-
+- var in progress = Solidity for Blockchain/web3
 ***
 - 🔭 I’m currently working on FourthSpecs (Gadgets info site)
 - 🌱 I’m currently learning Javascript,  Vue.js, Spanish, Blockchain
@@ -38,9 +38,9 @@
 
 ### Latest Blog Post 
 - [Deploying Your Site On GitHub Pages](https://cybergenie.hashnode.dev/deploying-your-website-using-github-pages)
-- 3 differences between web2 and we've
+- 3 differences between web2 and web3
 
-Kindly read. Drop a reaction if it helped you.
+Kindly read. It's actually pretty beginner friendly.
 
 *** 
 - 😄 Pronouns: She/Her 👧
