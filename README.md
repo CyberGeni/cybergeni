@@ -7,7 +7,7 @@
 - var inProgress = Solidity for Blockchain/web3
 ***
 - 🔭 I’m currently working on FourthSpecs (Gadgets info site)
-- 🌱 I’m currently learning Javascript,  Vue.js, Spanish, Blockchain
+- 🌱 I’m currently learning Javascript,  Vue.js, Spanish, Blockchain(which i'm dropping anytime soon)
 - 📝 I'm learning to be a technical writer and content creator.  Currently on [Hashnode](https://cybergenie.hashnode.dev) and [Dev.to](https://dev.to/cybergenie)
 - 👯 I’m looking to collaborate on projects involving web and things concerning it
 - 🤔 I’m looking for help with Vue.js, Solidity
