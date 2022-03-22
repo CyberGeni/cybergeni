@@ -41,7 +41,7 @@
 - [Deploying Your Site On GitHub Pages](https://cybergenie.hashnode.dev/deploying-your-website-using-github-pages)
 - 3 differences between web2 and web3
 
-Kindly read. It's actually pretty beginner friendly.
+Kindly read. They're actually all pretty beginner friendly.
 
 *** 
 - 😄 Pronouns: She/Her 👧
