@@ -3,7 +3,7 @@
 ### Hey there fella 👋
 
 - const name = Treasure
-- var stack = HTML, CSS, TailwindCSS, Python (JavaScript && Vue.js in progress)
+- var stack = HTML, CSS, TailwindCSS, Basic Python (JavaScript && Vue.js in progress)
 - var inProgress = Solidity for Blockchain/web3
 ***
 - 🔭 I’m currently working on Interaction design/development
