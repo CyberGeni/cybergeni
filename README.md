@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on Interaction design/development
 - 🌱 I’m currently learning Javascript,  Vue.js, Spanish, Blockchain(which i'm dropping anytime soon)
 - 📝 I'm learning to be a technical writer and content creator.  Currently on [Hashnode](https://cybergenie.hashnode.dev) and [Dev.to](https://dev.to/cybergenie)
-- 👯 I’m looking to collaborate on projects involving web and things concerning it
+- 👯 I’m looking to collaborate on projects involving web and things concerning it, basically doing more of open source contributions
 - 🤔 I’m looking for help with Vue.js, Solidity
 - 😑 I'm currently in a love/hate relationship with Javascript
 - 💬 Ask me about virtually anything e.g movies, tutorials, songs, anything I can help with
