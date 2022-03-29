@@ -7,7 +7,7 @@
 - var inProgress = Solidity for Blockchain/web3
 ***
 - 🔭 I’m currently working on Interaction design/development
-- 🌱 I’m currently learning Javascript,  Vue.js, Spanish, Blockchain(which i'm dropping anytime soon)
+- 🌱 I’m currently learning Javascript,  Vue.js, Spanish, Blockchain (which i'm dropping anytime soon)
 - 📝 I'm learning to be a technical writer and content creator.  Currently on [Hashnode](https://cybergenie.hashnode.dev) and [Dev.to](https://dev.to/cybergenie)
 - 👯 I’m looking to collaborate on projects involving web and things concerning it, basically doing more of open source contributions
 - 🤔 I’m looking for help with Vue.js, Solidity
@@ -23,11 +23,12 @@
 
 ***
 ### Tools 
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind_CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=F0DB4F&logo=javascript&logoColor=black) 
-![Vue Js](https://img.shields.io/badge/Vue-41b883?style=for-the-badge&logo=vue.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue-41b883?style=for-the-badge&logo=vue.js&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
