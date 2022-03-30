@@ -4,13 +4,13 @@
 
 - const name = Treasure
 - var stack = HTML, CSS, TailwindCSS, Basic Python (JavaScript && Vue.js in progress)
-- var inProgress = Solidity for Blockchain/web3
+
 ***
 - 🔭 I’m currently working on Interaction design/development
-- 🌱 I’m currently learning Javascript,  Vue.js, Spanish, Blockchain (which i'm dropping anytime soon)
+- 🌱 I’m currently learning Javascript,  Vue.js, Spanish
 - 📝 I'm learning to be a technical writer and content creator.  Currently on [Hashnode](https://cybergenie.hashnode.dev) and [Dev.to](https://dev.to/cybergenie)
 - 👯 I’m looking to collaborate on projects involving web and things concerning it, basically doing more of open source contributions
-- 🤔 I’m looking for help with Vue.js, Solidity
+- 🤔 I’m looking for help with Vue.js
 - 😑 I'm currently in a love/hate relationship with Javascript
 - 💬 Ask me about virtually anything e.g movies, tutorials, songs, anything I can help with
 - 📫 Do you want to commend or criticize anything? Even if it's just to catch cruise(😏)Text me through any of the below mediums: 
