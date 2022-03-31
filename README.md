@@ -1,9 +1,9 @@
 # <p align="center">not your regular frontend dev 😉</p>
 
-### Hey there fella 👋
+### ahoy there fella 👋
 
 - const name = Treasure
-- var stack = HTML, CSS, TailwindCSS, Basic Python (JavaScript && Vue.js in progress)
+- var techStack = HTML, CSS, TailwindCSS, Basic Python (JavaScript && Vue.js in progress)
 
 ***
 - 🔭 I’m currently working on Interaction design/development
