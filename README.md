@@ -11,11 +11,12 @@
 - 📝 I'm learning to be a technical writer and content creator.  Currently on [Hashnode](https://cybergenie.hashnode.dev) and [Dev.to](https://dev.to/cybergenie)
 - 👯 I’m looking to collaborate on projects involving web and things concerning it, basically doing more of open source contributions
 - 🤔 I’m looking for help with Vue.js
-- 😑 I'm currently in a love/hate relationship with Javascript 🙃
+- 😑 I'm currently in a serious love/hate relationship with Javascript 🙃
 - 💬 Ask me about virtually anything e.g movies, tutorials, songs, anything I can help with
 - 📫 Do you want to commend or criticize anything? Even if it's just to cruise(😏)... Text me through any of the below mediums: 
 
 ### Socials 
+
 [![Linkedin Badge](https://img.shields.io/badge/-Treasure_A.-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/treasure-ajefu)
 [![WhatsApp Badge](https://img.shields.io/badge/-@cyberGenie-43D854?style=flat&labelColor=43D854&logo=whatsapp&logoColor=white)](https://wa.me/2349098746099?text=Hi%20Treasure,%20I%20found%20your%20link%20on%20your%20GitHub%20profile,%20care%20for%20a%20little%20chit-chat?%20My%20name%20is%20%20%20) 
 [![Twitter Badge](https://img.shields.io/badge/-@cyberGenie-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/cybergenie_) 
