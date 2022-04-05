@@ -3,7 +3,7 @@
 ### ahoy there fella 👋
 
 - const name = Treasure
-- var techStack = HTML, CSS, TailwindCSS, Basic Python (JavaScript && Vue.js in progress)
+- var techStack = HTML, CSS, TailwindCSS, Basic Python (JavaScript && Vue.js && React in progress)
 
 ***
 - 🔭 I’m currently working on Interaction design/development
