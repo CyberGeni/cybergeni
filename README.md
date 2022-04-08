@@ -49,7 +49,7 @@
 - 😄 Pronouns: She/Her 👧
 ***
 - ⚡ Fun facts: 
-1. I can remember 90% of the lyrics to songs I once enjoyed no matter how long it's been since I listened to it.
+1. I can remember 85% of the lyrics to songs I once enjoyed no matter how long it's been since I listened to it.
 2. I'm an advanced beginner in Chess. Send a game request @cyberGenie on lichess or [chess.com](https://chess.com/members/cybergenie) let's see how much I'll match against you 😁.
 3. I also play Scrabble too 🌚
 
