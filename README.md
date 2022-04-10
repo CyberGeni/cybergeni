@@ -1,5 +1,5 @@
 # <p align="center">not your regular frontend dev 😉</p>
-
+#### <p align="center">frontend engineer in a bit 😌</p>
 ### ahoy there fella 👋
 
 - const name = Treasure
