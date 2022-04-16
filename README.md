@@ -55,7 +55,7 @@
 3. I also play Scrabble too 🌚
 
 ***
-Stats 🤩
+### Stats 🤩
 
   <img src="https://komarev.com/ghpvc/?username=cybergeni" alt="cybergeni" />
   
