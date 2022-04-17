@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning Javascript,  Vue.js, Spanish
 - 📝 I'm learning to be a technical writer and content creator.  Currently on [Hashnode](https://cybergenie.hashnode.dev) and [Dev.to](https://dev.to/cybergenie)
 - 🎨 I'm working towards being a CSS artist
-- 👯 I’m looking to collaborate on projects involving web and things concerning it, basically doing more of open source contributions
+- 👯 I’m looking to collaborate on projects involving web and things concerning it, including but not limited to responsive website development, creation of email templates and artistic works made with CSS
 - 🤔 I’m looking for help with Vue.js
 - 😑 I'm currently in a serious love/hate relationship with Javascript 🙃
 - 💬 Ask me about virtually anything e.g movies, tutorials, songs, anything I can help with
