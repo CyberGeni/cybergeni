@@ -2,7 +2,7 @@
 #### <p align="center">frontend engineer in a bit 😌</p>
 ### ahoy there fella 👋
 
-- const name = Treasure
+- const name = Treasure Ajefu
 - var techStack = HTML, CSS, TailwindCSS, Basic Python (JavaScript && Vue.js && React in progress)
 
 ***
