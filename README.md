@@ -14,7 +14,7 @@
 - 🤔 I’m looking for help with Vue.js
 - 😑 I'm currently in a serious love/hate relationship with Javascript 🙃
 - 💬 Ask me about virtually anything e.g movies, tutorials, songs, anything I can help with
-- 📫 Do you want to commend or criticize anything? Even if it's just to cruise(😏)... Text me through any of the below mediums: 
+- 📫 I want you to text me, and I'll be double excited of you have a gig for me 🙂. Socials below 👇
 
 ### Socials 
 
