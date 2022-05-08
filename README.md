@@ -6,7 +6,7 @@
 - var techStack = HTML, CSS, TailwindCSS, Basic Python (JavaScript && Vue.js && React in progress)
 
 ***
-- 🔭 I’m currently working on interaction design/development
+- 🔭 I’m currently working on interaction design/development with GSAP
 - 🌱 I’m currently learning Javascript,  Vue.js, React, Spanish
 - 📝 I'm learning to be a technical writer and content creator.  Currently on [Hashnode](https://cybergenie.hashnode.dev) and [Dev.to](https://dev.to/cybergenie)
 - 🎨 I'm working towards being a CSS artist
