@@ -8,6 +8,7 @@
 ***
 - 🔭 I’m currently working on interaction design/development with GSAP
 - 🌱 I’m currently learning Javascript,  Vue.js, React, Spanish
+- 🏢 I'm currently an Engineering student at AltSchool Africa
 - 📝 I'm learning to be a technical writer and content creator.  Currently on [Hashnode](https://cybergenie.hashnode.dev)
 - 🎨 I'm working towards being a CSS artist
 - 👯 I’m looking to collaborate on projects involving web and things concerning it, including but not limited to responsive website development, creation of email templates and art works made with CSS
