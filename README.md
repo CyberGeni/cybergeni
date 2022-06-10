@@ -14,7 +14,7 @@
 - 👯 I’m looking to collaborate on projects involving web and things concerning it, including but not limited to responsive website development, creation of email templates and art works made with CSS
 - 🤔 I’m looking for help with Vue.js
 - 😑 I'm currently in a serious love/hate relationship with Javascript 🥲
-- 💬 Ask me about virtually anything e.g movies, tutorials, songs, anything I can help with
+- 💬 Ask me about virtually anything e.g movies, tutorials, songs, anything you think I can help with
 - 📫 I want you to text me, and I'll be double excited of you have a gig for me 🙂. Socials below 👇
 
 ### Socials 
