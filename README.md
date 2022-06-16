@@ -3,7 +3,7 @@
 ### ahoy there fella 👋
 
 - const name = Treasure Ajefu
-- var techStack = HTML, CSS, TailwindCSS, JavaScript, Basic Python (Vue.js && React in progress)
+- let techStack = HTML, CSS, TailwindCSS, JavaScript, Basic Python (Vue.js && React in progress)
 
 ***
 - 🔭 I’m currently working on interaction design/development with GSAP
