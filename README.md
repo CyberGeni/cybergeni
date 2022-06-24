@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on interaction design/development with GSAP
 - 🌱 I’m learning Javascript,  Vue.js, React & Spanish
 - 🏢 I'm an Engineering student at AltSchool Africa... I'm an AltSchooler 😌
-- 📝 I'm learning to be a technical writer. I write sometimes when the spirit leads on [Hashnode](https://cybergenie.hashnode.dev)
+- 📝 I'm learning to be a technical writer. I write sometimes, when the spirit leads on [Hashnode](https://cybergenie.hashnode.dev)
 - 🎨 I'm working towards being a CSS artist
 - 👯 I’m looking to collaborate on projects involving web and things concerning it, including but not limited to responsive website development, creation of email templates and art works made with CSS
 - 🤔 I’m looking for help with Vue.js
