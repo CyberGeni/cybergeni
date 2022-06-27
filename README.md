@@ -6,7 +6,7 @@
 - let techStack = HTML, CSS, TailwindCSS, JavaScript, Beginner level Python (Vue.js && React in progress)
 
 ***
-- 🔭 I’m currently working on interaction design/development with GSAP
+- 🔭 I’m currently working on interaction design/development with GSAP and Three.js
 - 🌱 I’m learning Javascript,  Vue.js, React & Spanish
 - 🏢 I'm an Engineering student at AltSchool Africa... I'm an AltSchooler 😌
 - 📝 I'm learning to be a technical writer. I write sometimes, when the spirit leads on [Hashnode](https://cybergenie.hashnode.dev)
