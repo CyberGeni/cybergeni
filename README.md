@@ -3,11 +3,11 @@
 ### ahoy there fella 👋
 
 - const name = Treasure Ajefu
-- let techStack = HTML, CSS, TailwindCSS, JavaScript, Beginner level Python (Vue.js && React in progress), Tiny Django 
+- let techStack = HTML, CSS, TailwindCSS, JavaScript, Beginner level Python (Vue.js in progress), Tiny lil bit of Django 
 
 ***
 - 🔭 I’m currently working on interaction design/development with GSAP and Three.js
-- 🌱 I’m learning Javascript,  Vue.js, React & Spanish
+- 🌱 I’m learning Javascript,  Vue.js & Spanish
 - 🏢 I'm an Engineering student at AltSchool Africa... I'm an AltSchooler 😌
 - 📝 I'm learning to be a technical writer. I write sometimes, when the spirit leads on [Hashnode](https://cybergenie.hashnode.dev)
 - 🎨 I'm working towards being a CSS artist
