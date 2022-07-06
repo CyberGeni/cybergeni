@@ -4,7 +4,7 @@
 - 😄 <b> Pronouns: </b> She/Her 👧
 - 🏫 <b> Schooling: </b> Engineering @AltSchool Africa 23' 
 
-## My Tech Stack
+## ⚒ My Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind_CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -16,18 +16,18 @@
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 
-## Currently learning
+## 🏫 Currently learning
 
 - 🔭 Interaction design/development with GSAP and Three.js
 - 🌱 Javascript (serious love/hate relationship),  Vue.js & Spanish
 - 📝 Technical writing. I write sometimes, when the spirit leads on [Hashnode](https://cybergenie.hashnode.dev)
 - 🎨 CSS Art
 
-## Technical Articles
+## 📝 Technical Articles
 - [My Tech Chronicle](https://cybergenie.hashnode.dev/my-tech-chronicle)
 - [Deploying Your Site On GitHub Pages](https://cybergenie.hashnode.dev/deploying-your-website-using-github-pages)
 
-## Socials 
+## 🌍 Socials 
 [![Linkedin Badge](https://img.shields.io/badge/-Treasure_A.-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/treasure-ajefu)
 [![WhatsApp Badge](https://img.shields.io/badge/-@cyberGenie-43D854?style=flat&labelColor=43D854&logo=whatsapp&logoColor=white)](https://wa.me/2349098746099?text=Hi%20Treasure,%20I%20found%20your%20link%20on%20your%20GitHub%20profile,%20care%20for%20a%20little%20chit-chat?%20My%20name%20is%20%20%20) 
 [![Twitter Badge](https://img.shields.io/badge/-@cyberGenie-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/cybergenie_) 
