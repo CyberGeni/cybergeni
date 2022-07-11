@@ -1,5 +1,5 @@
 # <p align="center">Yoooo, you're welcome here.</p>
-<p align="center">tl;dr My name is Treasure Ajefu. I'm a creative Frontend Developer. I use my skills to create web solutions, and sometimes teach people through articles I write on the web. I'm open to collaborations, discussions and projects involving (but not limited to) web developemt, writing, speaking and other tech interests.</p>
+<p align="center">tl;dr My name is Treasure Ajefu. I'm a creative Frontend Developer. I use my skills to create web solutions, and sometimes teach people through articles I write on the web. I'm open to collaborations, discussions and projects involving (but not limited to) web development, writing, speaking and other tech interests.</p>
 
 <p align="center">fyi, for now I'm in an entanglement with JavaScript 😔</p>
 
