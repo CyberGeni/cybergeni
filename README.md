@@ -23,7 +23,7 @@
 
 - 🔭 Interaction design/development with GSAP and Three.js
 - 🌱 Javascript (serious love/hate relationship),  Vue.js & Spanish
-- 📝 Technical writing. I write sometimes, when the spirit leads on [Hashnode](https://cybergenie.hashnode.dev)
+- 📝 Technical writing (when the spirit leads) on [Hashnode](https://cybergenie.hashnode.dev)
 - 🎨 CSS Art
 
 ## 📝 Technical Articles
