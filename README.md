@@ -33,7 +33,6 @@
 
 ## 🌍 Socials 
 [![Linkedin Badge](https://img.shields.io/badge/-Treasure_A.-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/treasure-ajefu)
-[![WhatsApp Badge](https://img.shields.io/badge/-@cyberGenie-43D854?style=flat&labelColor=43D854&logo=whatsapp&logoColor=white)](https://wa.me/2349098746099?text=Hi%20Treasure,%20I%20found%20your%20link%20on%20your%20GitHub%20profile,%20care%20for%20a%20little%20chit-chat?%20My%20name%20is%20%20%20) 
 [![Twitter Badge](https://img.shields.io/badge/-@cyberGenie-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/cybergenie_) 
 [![Instagram Badge](https://img.shields.io/badge/-@cyberGenie-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/cybergenie_) 
 
