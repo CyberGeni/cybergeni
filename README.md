@@ -22,7 +22,7 @@
 
 ## 🏫 Currently learning
 
-- 🔭 Interaction design/development with GSAP and Three.js
+- 🔭 Interaction design/development with GSAP
 - 🌱 Javascript (serious love/hate relationship),  Vue.js & Spanish
 - 📝 Technical writing (when the spirit leads) on [Hashnode](https://cybergenie.hashnode.dev)
 - 🎨 CSS Art
