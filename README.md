@@ -5,7 +5,7 @@
 
 - 😄 <b> Pronouns: </b> She/Her 👧
 
-- 🏫 <b> Schooling: </b> Engineering @AltSchool Africa 23' 
+- 🏫 <b> Education: </b> Engineering @AltSchool Africa 23' 
 
 - 💼 <b> Job search status: </b> Actively looking
 ## ⚒ My Tech Stack
