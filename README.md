@@ -28,6 +28,7 @@
 - 🎨 CSS Art
 
 ## 📝 Technical Articles
+- [5 Tools to make you a better developer](https://cybergenie.hashnode.dev/)
 - [My Tech Chronicle](https://cybergenie.hashnode.dev/my-tech-chronicle)
 - [Deploying Your Site On GitHub Pages](https://cybergenie.hashnode.dev/deploying-your-website-using-github-pages)
 
