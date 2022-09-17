@@ -25,6 +25,7 @@
 - 🎨 CSS Art
 
 ## 📝 Technical Articles
+- [I joined a Twitter challenge...](https://cybergenie.hashnode.dev/i-joined-a-twitter-challenge)
 - [5 Tools to make you a better developer](https://cybergenie.hashnode.dev/)
 - [My Tech Chronicle](https://cybergenie.hashnode.dev/my-tech-chronicle)
 - [Deploying Your Site On GitHub Pages](https://cybergenie.hashnode.dev/deploying-your-website-using-github-pages)
