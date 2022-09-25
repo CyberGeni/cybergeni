@@ -22,7 +22,7 @@
 - 🔭 Interaction design/development with GSAP
 - 🌱 Javascript (serious love/hate relationship), React.js & Spanish
 - 📝 Technical writing (when the spirit leads) on [Hashnode](https://cybergenie.hashnode.dev)
-- 🎨 CSS Art
+
 
 ## 📝 Technical Articles
 - [I joined a Twitter challenge...](https://cybergenie.hashnode.dev/i-joined-a-twitter-challenge)
