@@ -25,7 +25,7 @@
 
 
 ## 📝 Technical Articles
-- How to contribute 5i open source projects on GitHub (coming soon)
+- How to contribute to open source projects on GitHub (coming soon)
 - [I joined a Twitter challenge...](https://cybergenie.hashnode.dev/i-joined-a-twitter-challenge)
 - [5 Tools to make you a better developer](https://cybergenie.hashnode.dev/)
 - [My Tech Chronicle](https://cybergenie.hashnode.dev/my-tech-chronicle)
