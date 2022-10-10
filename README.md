@@ -1,11 +1,12 @@
 # <p align="center">yoooo, you're welcome here 👋</p>
 <p align="center">tl;dr... My name is Treasure Ajefu. I'm a creative Frontend Developer. I use my skills to create web solutions, and sometimes teach people through articles I write on the web. I'm open to collaborations, discussions and projects involving (but not limited to) web development, writing, speaking and other tech interests.</p>
-
+<p align="center"> one interesting thing to note... I specialise in *not* turning designs to beans</p>
 - 😄 <b> Pronouns: </b> She/Her 👧
 
-- 🏫 <b> Education: </b> Software Engineering @AltSchool Africa Class of '23 
+- 🏫 <b> Education: </b> Software Engineering @AltSchool Africa '23 
 
 - 💼 <b> Job search status: </b> Actively looking
+- 
 ## ⚒ My Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
