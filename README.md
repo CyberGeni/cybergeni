@@ -19,7 +19,6 @@
 
 ## 🏫 Currently learning
 
-- 🔭 Interaction design/development with GSAP
 - 🌱 Javascript (serious love/hate relationship), React.js & Spanish
 - 📝 Technical writing (when the spirit leads) on [Hashnode](https://cybergenie.hashnode.dev)
 
