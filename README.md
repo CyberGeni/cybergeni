@@ -24,8 +24,8 @@
 - 📝 Technical writing (when the spirit leads) on [Hashnode](https://cybergenie.hashnode.dev)
 
 
-## 📝 Technical Articles
-- How to contribute to open source projects on GitHub (coming soon)
+## 📝 Recent Technical Articles
+- [How to contribute to open source projects on GitHub](https://cybergenie.hashnode.dev/how-to-contribute-to-open-source-projects-on-github)
 - [I joined a Twitter challenge...](https://cybergenie.hashnode.dev/i-joined-a-twitter-challenge)
 - [5 Tools to make you a better developer](https://cybergenie.hashnode.dev/)
 - [My Tech Chronicle](https://cybergenie.hashnode.dev/my-tech-chronicle)
