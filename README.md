@@ -1,8 +1,6 @@
 # <p align="center">yoooo, you're welcome here 👋</p>
-<p align="center">tl;dr... My name is Treasure Ajefu. I'm a creative Frontend Developer. I use my skills to create web solutions, and sometimes share little knowledge I have through articles I write on the web. I'm open to collaborations, discussions and projects involving (but not limited to) web development, writing, speaking and other tech interests.</p>
-<p align="center"> one interesting thing to note... I specialise in *not* turning designs to beans</p>
+<p align="center">tl;dr...Meet Treasure Ajefu, a UI engineer and technical writer with a passion for developing intuitive and visually appealing digital experiences. When Treasure isn't busy crafting clean and efficient code, you can find her penning clear and concise tutorials that helps others navigate complex technical concepts (or maybe random opinionated articles, who knows?). A lover of all things quirky and offbeat, Treasure brings a unique and playful perspective to her work. So if you're in need of a UI engineer or technical writer with a splash of quirkiness, look no further!</p>
 
-- 😄 <b> Pronouns: </b> She/Her 👧
 
 - 🏫 <b> Education: </b> Software Engineering @AltSchool Africa '23 
 
@@ -24,7 +22,7 @@
 
 
 ## 📝 Recent Technical Articles
-- DevRetro 2022: The One With The Wins, Losses, and EveryThing In Between (coming soon)
+- DevRetro 2022: The One With The Green Squares (coming soon)
 - My Experience as a DevCareer Intern (coming soon)
 - [How to contribute to open source projects on GitHub](https://cybergenie.hashnode.dev/how-to-contribute-to-open-source-projects-on-github)
 - [I joined a Twitter challenge...](https://cybergenie.hashnode.dev/i-joined-a-twitter-challenge)
