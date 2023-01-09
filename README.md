@@ -22,7 +22,7 @@
 
 
 ## 📝 Recent Technical Articles
-- DevRetro 2022: The One With The Green Squares (coming soon)
+- [DevRetro 2022: The One With The Green Squares](https://cybergenie.hashnode.dev/2022-the-one-with-the-green-squares)
 - My Experience as a DevCareer Intern (coming soon)
 - [How to contribute to open source projects on GitHub](https://cybergenie.hashnode.dev/how-to-contribute-to-open-source-projects-on-github)
 - [I joined a Twitter challenge...](https://cybergenie.hashnode.dev/i-joined-a-twitter-challenge)
