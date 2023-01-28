@@ -1,6 +1,5 @@
 # <p align="center">yoooo, you're welcome here 👋</p>
-<p align="center">tl;dr...Meet Treasure Ajefu, a UI engineer and technical writer with a passion for developing intuitive and visually appealing digital experiences. When Treasure isn't busy crafting clean and efficient code, you can find her penning clear and concise tutorials that helps others navigate complex technical concepts (or maybe random opinionated articles, who knows?). A lover of all things quirky and offbeat, Treasure brings a unique and playful perspective to her work. So if you're in need of a UI engineer or technical writer with a splash of quirkiness, look no further!</p>
-
+<p align="center">holaaaaa ... Meet Treasure Ajefu, a UI engineer and technical writer with a passion for developing intuitive and visually appealing digital experiences. When Treasure isn't busy crafting clean and efficient code, you can find her penning clear and concise tutorials that helps others navigate complex technical concepts (or maybe random opinionated articles, who knows?). A lover of all things quirky and offbeat, Treasure brings a unique and playful perspective to her work. So if you're in need of a UI engineer or technical writer with a splash of quirkiness, look no further!</p>
 
 - 🏫 <b> Education: </b> Software Engineering @AltSchool Africa '23 
 
