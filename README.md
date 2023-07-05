@@ -1,9 +1,10 @@
 # <p align="center">yoooo, you're welcome here 👋</p>
 <p align="center">holaaaaa ... Meet Treasure Ajefu, a UI engineer and technical writer with a passion for developing intuitive and visually appealing digital experiences. When Treasure isn't busy crafting clean and efficient code, you can find her penning clear and concise tutorials that helps others navigate complex technical concepts (or maybe random opinionated articles, who knows?). A lover of all things quirky and offbeat, Treasure brings a unique and playful perspective to her work. So if you're in need of a UI engineer or technical writer with a splash of quirkiness, look no further!</p>
 
-- 🏫 <b> Education: </b> Software Engineering @AltSchool Africa '23 
+- 🏫 <b> Education: </b> Software Engineering Alumni @ AltSchool Africa '23 
 
-- 💼 <b> Job search status: </b> Frontend Engineer, Sterling Bank Plc.
+- 💼 <b> Availability: </b> Contracts, Short term gigs
+
 ## ⚒ My Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -57,4 +58,4 @@
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CyberGeni&show_icons=true&theme=solarized-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 </details>
 
-I hope you found what brought you here, and also hope to see you next time ☺
+You've read this far, what other convincing evidence do you need to hire me for your next project? Just text me, I don't bite :)
