@@ -1,48 +1,28 @@
 # <p align="center">yoooo, you're welcome here 👋</p>
-<p align="center">holaaaaa ... Meet Treasure Ajefu, a UI engineer and technical writer with a passion for developing intuitive and visually appealing digital experiences. When Treasure isn't busy crafting clean and efficient code, you can find her penning clear and concise tutorials that helps others navigate complex technical concepts (or maybe random opinionated articles, who knows?). A lover of all things quirky and offbeat, Treasure brings a unique and playful perspective to her work. So if you're in need of a UI engineer or technical writer with a splash of quirkiness, look no further!</p>
+<p align="center">hey there... i'm Treasure Ajefu, and i'm a creative frontend developer. my niche is implementing designs to pixel perfection. i have experience working with a couple of frontend development languages and frameworks such as react & vue. i also have experience with framer, a no-code tool.</p>
 
-- 🏫 <b> Education: </b> SWE (frontend) Alumni @ AltSchool Africa '23 
+<p align="center">if you have a project you need me on or you have questions, please feel free to reach out to me via my socials below.</p>
 
-- 💼 <b> Availability: </b> Contracts, Short term gigs
+## 🌍 socials 
+[![Linkedin Badge](https://img.shields.io/badge/-Treasure_A.-0e76a8?style=for-the-badge&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/treasure-ajefu)
+[![Twitter Badge](https://img.shields.io/badge/-@cyberGenie-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/cybergenie_) 
+[![Instagram Badge](https://img.shields.io/badge/-@cyberGenie-e84393?style=for-the-badge&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/cybergenie_) 
 
-## ⚒ My Tech Stack
+## ⚒ my tech stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind_CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=F0DB4F&logo=javascript&logoColor=black) 
-<!-- ![Vue.js](https://img.shields.io/badge/Vue-41b883?style=for-the-badge&logo=vue.js&logoColor=white) -->
+![Javascript Badge](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
+<!-- ![Vue.js](https://img.shields.io/badge/Vue-41b883?style=for-the-badge&logo=vue.js&logoColor=white) -->
 
-## 🏫 Currently learning
-
-- 🌱 Javascript (serious love/hate relationship), React.js & Spanish
-- 📝 Technical writing (when the spirit leads) on [Hashnode](https://cybergenie.hashnode.dev)
-
-
-## 📝 Recent Technical Articles
-- [DevRetro 2022: The One With The Green Squares](https://cybergenie.hashnode.dev/2022-the-one-with-the-green-squares)
-- My Experience as a DevCareer Intern (coming soon)
-- [How to contribute to open source projects on GitHub](https://cybergenie.hashnode.dev/how-to-contribute-to-open-source-projects-on-github)
-- [I joined a Twitter challenge...](https://cybergenie.hashnode.dev/i-joined-a-twitter-challenge)
-- [5 Tools to make you a better developer](https://cybergenie.hashnode.dev/)
-- [My Tech Chronicle](https://cybergenie.hashnode.dev/my-tech-chronicle)
-- [Deploying Your Site On GitHub Pages](https://cybergenie.hashnode.dev/deploying-your-website-using-github-pages)
-
-## 🌍 Socials 
-[![Linkedin Badge](https://img.shields.io/badge/-Treasure_A.-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/treasure-ajefu)
-[![Twitter Badge](https://img.shields.io/badge/-@cyberGenie-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/cybergenie_) 
-[![Instagram Badge](https://img.shields.io/badge/-@cyberGenie-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/cybergenie_) 
-
-
-## ⚡ Fun facts
-1. I can remember 85% of the lyrics to songs I once enjoyed no matter how long it's been since I listened to it.
-2. I'm an 'advanced beginner' in Chess (try not to bring an underestimating mindset, you might be surprised 🙃). Send a game request @cyberGenie on [chess.com](https://chess.com/members/cybergenie) let's play a quick game 😁.
-3. I also play Scrabble too 🌚
 
 <details>
-  <summary>Stats 🤩 (tap to open)</summary>
+  <summary>Stats, if you're intrigued by them (tap to open)</summary>
   <br />
   
   <img src="https://komarev.com/ghpvc/?username=cybergeni" alt="cybergeni" />
@@ -58,4 +38,15 @@
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CyberGeni&show_icons=true&theme=solarized-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 </details>
 
-You've read this far, what other convincing evidence do you need to hire me for your next project? Just text me, I don't bite :)
+---
+## 👩🏾‍🍳 things i've built
+<p>i've compiled a couple of my best projects to share with you, to show you that <em>i actually sabi this thing</em></p>
+
+| Name                        | Preview   |
+|     ---                     |    ---    |
+| [FAAME Digital Management Services](https://faamedigital.com) | ![image](https://github.com/CyberGeni/cybergeni/assets/70205370/238d97ab-03d1-40b5-93c0-0e4382c25bfa) | 
+| [Querus Consults ](https://querusconsults.com/) | ![image](https://github.com/CyberGeni/cybergeni/assets/70205370/11c6db91-997a-4427-bbdb-e39a862fb2c9) |
+| [btchr ](https://btchr.netlify.app/) | ![image](https://github.com/CyberGeni/cybergeni/assets/70205370/f99d6f44-2f92-40d8-be0e-2cb023bbb9b8)|
+
+
+you've read this far, what other convincing evidence do you need to hire me for your next project? i'm good and i don't bite, just text me :)
