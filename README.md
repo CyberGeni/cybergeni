@@ -1,4 +1,4 @@
-# <p align="center">yoooo, you're welcome here 👋</p>
+# <h1 align="center">yoooo, you're welcome here 👋</h1>
 <p align="center">hey there... i'm Treasure Ajefu, and i'm a creative frontend developer. my niche is implementing designs to pixel perfection. i have experience working with a couple of frontend development languages and frameworks such as react & vue. i also have experience with framer, a no-code tool.</p>
 
 <p align="center">if you have a project you need me on or you have questions, please feel free to reach out to me via my socials below.</p>
