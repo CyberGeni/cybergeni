@@ -44,6 +44,7 @@
 
 | Name                        | Preview   |
 |     ---                     |    ---    |
+| [Typeframes](https://typeframes.com) | ![image](https://github.com/CyberGeni/cybergeni/assets/70205370/8bb3dcdb-134f-4743-b054-078d2392ed13) | 
 | [FAAME Digital Management Services](https://faamedigital.com) | ![image](https://github.com/CyberGeni/cybergeni/assets/70205370/238d97ab-03d1-40b5-93c0-0e4382c25bfa) | 
 | [Querus Consults ](https://querusconsults.com/) | ![image](https://github.com/CyberGeni/cybergeni/assets/70205370/11c6db91-997a-4427-bbdb-e39a862fb2c9) |
 | [btchr ](https://btchr.netlify.app/) | ![image](https://github.com/CyberGeni/cybergeni/assets/70205370/f99d6f44-2f92-40d8-be0e-2cb023bbb9b8)|
