@@ -1,5 +1,5 @@
 # <h1 align="center">yoooo, you're welcome here 👋</h1>
-<p align="center">hey there... i'm Treasure Ajefu, and i'm a creative frontend developer. my niche is implementing designs to pixel perfection. i have experience working with a couple of frontend development languages and frameworks such as react & vue. i also have experience with framer, a no-code tool.</p>
+<p align="center">hey there... i'm Treasure Ajefu, and i'm a creative frontend developer. people i've worked with say i'm really good at implementing designs to pixel perfection, and you should believe them. i have experience working with a couple of frontend development languages and frameworks like react & vue. whenever i feel my brain wearing and tearing from writing code, i use framer, a no-code tool.</p>
 
 <p align="center">if you have a project you need me on or you have questions, please feel free to reach out to me via my socials below.</p>
 
@@ -44,10 +44,12 @@
 
 | Name                        | Preview   |
 |     ---                     |    ---    |
+| [btchr ](https://btchr.netlify.app/) | ![image](https://github.com/CyberGeni/cybergeni/assets/70205370/f99d6f44-2f92-40d8-be0e-2cb023bbb9b8)|
 | [Typeframes](https://typeframes.com) | ![image](https://github.com/CyberGeni/cybergeni/assets/70205370/8bb3dcdb-134f-4743-b054-078d2392ed13) | 
+| [InkBridge Synergy](https://inkbridgesynergy.com) | ![desktop](https://github.com/CyberGeni/cybergeni/assets/70205370/4cc1110b-6446-4fa8-b0c2-162d1ca01882)| 
 | [FAAME Digital Management Services](https://faamedigital.com) | ![image](https://github.com/CyberGeni/cybergeni/assets/70205370/238d97ab-03d1-40b5-93c0-0e4382c25bfa) | 
 | [Querus Consults ](https://querusconsults.com/) | ![image](https://github.com/CyberGeni/cybergeni/assets/70205370/11c6db91-997a-4427-bbdb-e39a862fb2c9) |
-| [btchr ](https://btchr.netlify.app/) | ![image](https://github.com/CyberGeni/cybergeni/assets/70205370/f99d6f44-2f92-40d8-be0e-2cb023bbb9b8)|
 
 
-you've read this far, what other convincing evidence do you need to hire me for your next project? i'm good and i don't bite, just text me :)
+
+you've read this far, what other convincing evidence do you need to hire me for your next project? i'm really good and i don't bite, just text me :)
