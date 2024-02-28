@@ -44,8 +44,8 @@
 
 | Name                        | Preview   |
 |     ---                     |    ---    |
-| [btchr ](https://btchr.netlify.app/) | ![image](https://github.com/CyberGeni/cybergeni/assets/70205370/f99d6f44-2f92-40d8-be0e-2cb023bbb9b8) |
-| [Typeframes](https://typeframes.com) | ![image](https://github.com/CyberGeni/cybergeni/assets/70205370/8bb3dcdb-134f-4743-b054-078d2392ed13) | 
+| [btchr ](https://btchr.netlify.app/) | ![image](https://github.com/CyberGeni/cybergeni/assets/70205370/6e7399ed-a965-420a-a57c-58bec2d5873f) |
+| [Typeframes](https://typeframes.com) | ![image](https://github.com/CyberGeni/cybergeni/assets/70205370/2851cd0f-626c-4c27-9ca8-66944561ae9d) | 
 | [Favour A. (portfolio website)](https://fayvour.netlify.app) | ![image](https://github.com/CyberGeni/cybergeni/assets/70205370/a5086841-dc98-4f40-b9d4-f09884acd7c5) | 
 | [InkBridge Synergy](https://inkbridgesynergy.com) | ![desktop](https://github.com/CyberGeni/cybergeni/assets/70205370/4cc1110b-6446-4fa8-b0c2-162d1ca01882) | 
 | [FAAME Digital Management Services](https://faamedigital.com) | ![image](https://github.com/CyberGeni/cybergeni/assets/70205370/238d97ab-03d1-40b5-93c0-0e4382c25bfa) | 
